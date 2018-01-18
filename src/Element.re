@@ -5,7 +5,7 @@ let make =
     (
       ~className: string,
       ~label: string,
-      ~elementRef,
+      ~elementRef: Js.t({..} as 'a),
       ~onChange,
       ~onBlur,
       ~onFocus,
@@ -27,4 +27,3 @@ let make =
   );
 
 
-  
