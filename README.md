@@ -1,3 +1,3 @@
-# Reason bindings boilerplate
+# Bucklescript bindings for Stripe Elements
 
-Originally inspired by [bs-react-material-file-input](https://github.com/georgelima/bs-react-material-file-input/) - George Lima
+Bindings for [react-stripe-elements](https://github.com/stripe/react-stripe-elements/)
